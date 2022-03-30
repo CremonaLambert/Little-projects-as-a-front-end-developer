@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
 }
-
+body {
+    
+}
 h3,p {
     margin: 10px;
 }
@@ -33,7 +35,6 @@ ul {
 }
 
 nav {
-    /*background-image: linear-gradient(rgb(143, 132, 132), rgb(235, 235, 219), rgb(106, 109, 106));*/
     border: 2px solid #000;
     position: sticky;
     top: 0;
@@ -77,11 +78,8 @@ aside {
 
 
 footer {
-    /*background-color: rgb(141, 236, 243);*/
     height: 50px;
     border: 2px solid #000;
-    /*position: sticky;
-    bottom: 0;*/
     
 }
 
