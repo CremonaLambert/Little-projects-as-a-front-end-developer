@@ -3,28 +3,22 @@
     margin: 0;
     padding: 0;
 }
+
 body {
-    
+    font-family: 'Ubuntu', sans-serif;
 }
+
 h3,p {
     margin: 10px;
 }
 
+
 .menu a {
+
     text-decoration: none;
     padding-left: 30px;
 
 }
-/*
-h3 {
-    margin: 10px;
-}
-
-p {
-    margin: 20px;
-}
-*/
-
 
 ul {
     display: flex;
@@ -85,8 +79,8 @@ footer {
 
 img {
     border-radius: 50%;
-    max-width: 100px;
-    max-height: 100px;
+    width: 100px;
+    height: 100px;
     margin: 10px;
 }
 
