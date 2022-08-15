@@ -1,6 +1,5 @@
-# Little_Project_As_Beginner_01
+# Css Grid and Flexbox
 
-Small *Html* and *Css* project for beginner targeting  ( Css Grid and Flexbox).
-
+Small _Html_ and _Css_ project for beginner targeting ( Css Grid and Flexbox).
 
 ----------( End )----------
