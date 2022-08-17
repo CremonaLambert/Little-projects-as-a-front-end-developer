@@ -140,7 +140,8 @@ p {
 footer {
     /* height: 50px; */
     /* border: 2px solid #000; */
-    background-color: #212735;
+    /* background-color: #212735; */
+    height: 100px;
 
     
 }
@@ -180,15 +181,11 @@ img {
     transform: rotate(0.1212deg);
 }
 
-/* a {
-    color: #fff;
-} */
-
-.home, .about, .contact, .services, .portfolio {
-    /* border: 0.5px solid brown; */
-    /* text-align: center; */
-}
 
 a:hover {
     border: 0.5px solid brown;
+}
+
+.innerfooter {
+    border: 2px solid white;
 }
